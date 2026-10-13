@@ -1,0 +1,6 @@
+@HD	VN:1.6	SO:unsorted
+@SQ	SN:chrMini	LN:20
+perfect	0	chrMini	1	60	8M	*	0	0	ACGTACGT	IIIIIIII
+sub_A_C	0	chrMini	1	60	8M	*	0	0	CCGTACGT	IIIIIIII
+ins_1bp	0	chrMini	1	60	4M1I4M	*	0	0	ACGTGACGT	IIIIIIIII
+del_1bp	0	chrMini	1	60	3M1D4M	*	0	0	ACGACGT	IIIIIII

@@ -1,0 +1,17 @@
+Ground-truth expectations (synthetic test fixture)
+
+read_subs: 3 substitutions: A>C, T>A, T>G
+read_ins2: 1 insertion event of 2 bp, inserted sequence GG
+read_del3: 1 deletion event of 3 bp
+read_mixed: 1 insertion event of 1 bp (A), and 1 deletion event of 1 bp
+
+Totals:
+- Substitutions: 3
+- Insertion events: 2; inserted bases: 3
+- Deletion events: 2; deleted bases: 4
+- Total indel events: 4
+- Inserted + deleted bases: 7
+
+This is deliberately engineered test data, not a realistic ONT error profile.
+FASTQ quality characters are synthetic and should not be interpreted as calibrated quality scores.
+The SAM has hand-written extended CIGAR (=, X, I, D) to make the intended events transparent.

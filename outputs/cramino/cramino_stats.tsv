@@ -1,0 +1,2 @@
+file_name	file_path	creation_time	num_alignments	percent_from_total	num_reads	yield_gb	mean_coverage	yield_gb_long	n50	n75	median_length	mean_length	n50_aligned	n75_aligned	median_length_aligned	mean_length_aligned	median_identity	mean_identity	modal_identity
+tiny_calmd.bam	mini_datasets/mini_bam/tiny_calmd.bam	12/10/2026 15:31:29	5	100.00	5	0.00	1.00	0.00	104	94	104.00	105.80	104	94	104.00	105.80	100.00	100.00	100.0

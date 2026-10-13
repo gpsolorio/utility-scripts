@@ -1,0 +1,14 @@
+name: mini-data-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - samtools
+  - minimap2
+  - cramino
+  - pysam
+  - python>=3.11
+  - numpy
+  - pandas
+  - matplotlib
